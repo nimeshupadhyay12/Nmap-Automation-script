@@ -53,8 +53,8 @@ Verify installation with `nmap -v`.
 
 ### Step 2: Clone the Repository
 ```bash
-git clone https://github.com/nimeshupadhyay12/nmap_automation.py.git
-cd python-automation-for-nmap-scanning
+git clone https://github.com/nimeshupadhyay12/nmap_automation.git
+cd nmap_automation
 ```
 
 ### Step 3: Install Python Dependencies
