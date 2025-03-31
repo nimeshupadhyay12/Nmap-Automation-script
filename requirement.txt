@@ -6,8 +6,3 @@ requests
 argparse
 colorama
 
-
-Installation:
-Users can install these dependencies by running:
-
-cmd- pip install -r requirements.txt
