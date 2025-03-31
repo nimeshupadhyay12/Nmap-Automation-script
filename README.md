@@ -154,9 +154,6 @@ python-automation-for-nmap-scanning/
 ├── nmap_automation.py  # Main script
 ├── README.md          # This file
 ├── requirements.txt   # Dependency list
-├── config.yaml        # Optional API config
-├── LICENSE            # MIT License
-└── .gitignore         # Ignores temp files
 ```
 
 Happy Scanning! 🚀
